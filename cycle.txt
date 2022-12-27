@@ -1,0 +1,23 @@
+C:\msys64\mingw64\bin\python3w.exe C:\Users\Лис\PycharmProjects\ecole\cycle.py
+hello 1
+hello 2
+hello 3
+hello 4
+hello 5
+hello 6
+hello 7
+hello 8
+hello 9
+hello 10
+goodby 0
+goodby 1
+goodby 2
+goodby 3
+goodby 4
+goodby 5
+goodby 6
+goodby 7
+goodby 8
+goodby 9
+
+Process finished with exit code 0
